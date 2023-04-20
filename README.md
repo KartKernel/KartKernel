@@ -10,7 +10,7 @@
 
 - :school: `Sophomore` at [Data Science & Engineering](https://manipal.edu/mit/program-list/btech/btech-data-science-and-engineering.html) at [Manipal Institute Of Technology](https://manipal.edu/mu.html).
 - :student: Learning `Web Development`, `Machine Learning`, `Database Systems`, `Design and Analysis of Algorithms`, `Deep Learning` and `Artificial Intelligence`.
-- :technologist: I love using Problem solving `algorithms` as solution to solving `Problem`.
+- :technologist: I love using Problem solving `algorithms` as solution to solving `Problems`.
 - :nerd_face: Always `learning new things`.
 - :wave: I’m currently open for an `Intern` or a `New Job Opportunity`.
 
