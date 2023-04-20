@@ -17,7 +17,7 @@
 
 <br><br><br><br>
 
-![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartKernel&show_icons=true&theme=aura)
+![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartKernel&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KartKernel&hide_progress=true&theme=aura)](https://github.com/KartKernel/github-readme-stats)
   
